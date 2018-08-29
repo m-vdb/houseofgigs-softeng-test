@@ -28,5 +28,3 @@ We will evaluate your work by taking a closer look at the following:
 
 
 Good luck 🍀💪🚀
-
-![Motivation](https://media.giphy.com/media/Ft62PpMu4mzpm/giphy.gif)
