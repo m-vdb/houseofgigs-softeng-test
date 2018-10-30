@@ -20,10 +20,11 @@ The task goal is to build a [React Native](https://facebook.github.io/react-nati
 
 ## Evaluation
 
-We will evaluate your work by taking a closer look at the following:
+Our goal is to know you as a developer: _how you think, how you code, how you organize_. We will evaluate your work by taking a closer look at the following:
 
 - Working demo
 - Guidelines followed
+- Developer skills
 - Necessary features: liberty is given to the developer to define them
 
 
